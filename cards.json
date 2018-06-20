@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "img": "./assets/actor-opinion.PNG"
+  },
+  {
+    "id": 2,
+    "img": "./assets/actor-pic.PNG"
+  },
+  {
+    "id": 3,
+    "img": "./assets/airline-opinion.PNG"
+  },
+  {
+    "id": 4,
+    "img": "./assets/airline-pic.PNG"
+  },
+  {
+    "id": 5,
+    "img": "./assets/athlete-opinion.PNG"
+  },
+  {
+    "id": 6,
+    "img": "./assets/athlete-pic.PNG"
+  },
+  {
+    "id": 7,
+    "img": "./assets/brand-opinion.PNG"
+  },
+  {
+    "id": 8,
+    "img": "./assets/brand-pic.PNG"
+  },
+  {
+    "id": 9,
+    "img": "./assets/car-opinion.PNG"
+  },
+  {
+    "id": 10,
+    "img": "./assets/car-pic.PNG"
+  },
+  {
+    "id": 11,
+    "img": "./assets/chocolate-opinion.PNG"
+  },
+  {
+    "id": 12,
+    "img": "./assets/chocolate-pic.PNG"
+  },
+  {
+    "id": 13,
+    "img": "./assets/coffee-opinion.PNG"
+  },
+  {
+    "id": 14,
+    "img": "./assets/coffee-pic.PNG"
+  },
+  {
+    "id": 15,
+    "img": "./assets/comedy-opinion.PNG"
+  },
+  {
+    "id": 16,
+    "img": "./assets/comedy-pic.PNG"
+  },
+  {
+    "id": 17,
+    "img": "./assets/comfort-food-opinion.PNG"
+  },
+  {
+    "id": 18,
+    "img": "./assets/comfort-food-pic.PNG"
+  },
+  {
+    "id": 19,
+    "img": "./assets/diet-opinion.PNG"
+  },
+  {
+    "id": 20,
+    "img": "./assets/diet-pic.PNG"
+  },
+  {
+    "id": 21,
+    "img": "./assets/drink-opinion.PNG"
+  },
+  {
+    "id": 22,
+    "img": "./assets/drink-pic.PNG"
+  },
+  {
+    "id": 23,
+    "img": "./assets/fragrance-opinion.PNG"
+  },
+  {
+    "id": 24,
+    "img": "./assets/fragrance-pic.PNG"
+  },
+  {
+    "id": 25,
+    "img": "./assets/icecream-opinion.PNG"
+  },
+  {
+    "id": 26,
+    "img": "./assets/icecream-pic.PNG"
+  },
+  {
+    "id": 27,
+    "img": "./assets/invention-opinion.PNG"
+  },
+  {
+    "id": 28,
+    "img": "./assets/invention-pic.PNG"
+  },
+  {
+    "id": 29,
+    "img": "./assets/jeans-opinion.PNG"
+  },
+  {
+    "id": 30,
+    "img": "./assets/jeans-pic.PNG"
+  },
+  {
+    "id": 31,
+    "img": "./assets/laptop-opinion.PNG"
+  },
+  {
+    "id": 32,
+    "img": "./assets/laptop-pic.PNG"
+  },
+  {
+    "id": 33,
+    "img": "./assets/movie-opinion.PNG"
+  },
+  {
+    "id": 34,
+    "img": "./assets/movie-pic.PNG"
+  },
+  {
+    "id": 35,
+    "img": "./assets/musician-opinion.PNG"
+  },
+  {
+    "id": 36,
+    "img": "./assets/musician-pic.PNG"
+  },
+  {
+    "id": 37,
+    "img": "./assets/power-food-opinion.PNG"
+  },
+  {
+    "id": 38,
+    "img": "./assets/power-food-pic.PNG"
+  },
+  {
+    "id": 39,
+    "img": "./assets/shampoo-opinion.PNG"
+  },
+  {
+    "id": 40,
+    "img": "./assets/shampoo-pic.PNG"
+  },
+  {
+    "id": 41,
+    "img": "./assets/smartphone-opinion.PNG"
+  },
+  {
+    "id": 42,
+    "img": "./assets/smartphone-pic.PNG"
+  },
+  {
+    "id": 43,
+    "img": "./assets/song-opinion.PNG"
+  },
+  {
+    "id": 44,
+    "img": "./assets/song-pic.PNG"
+  },
+  {
+    "id": 45,
+    "img": "./assets/team-opinion.PNG"
+  },
+  {
+    "id": 46,
+    "img": "./assets/team-pic.PNG"
+  },
+  {
+    "id": 47,
+    "img": "./assets/tv-opinion.PNG"
+  },
+  {
+    "id": 48,
+    "img": "./assets/tv-pic.PNG"
+  },
+  {
+    "id": 49,
+    "img": "./assets/vacation-opinion.PNG"
+  },
+  {
+    "id": 50,
+    "img": "./assets/vacation-pic.PNG"
+  }
+]
