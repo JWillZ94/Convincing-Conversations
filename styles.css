@@ -1,7 +1,52 @@
 body {
   text-align: center;
+  background: #1a651a;
+  color: white;
+  font-family: 'Cuprum', sans-serif;
 }
 
-#card {
+#title {
+  font-size: 3em;
+}
+
+#card img {
+  border-radius: 15px;
+}
+
+#card p {
+  font-size: 1.3em;
+}
+
+#start {
+  margin-bottom: 1rem;
+  font-size: 1.2em;
   cursor: pointer;
+  margin-right: 2rem;
+}
+
+#reset {
+  margin-top: 1.5rem;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#write textarea {
+  display: block;
+  margin: auto;
+  margin-bottom: 2rem;
+}
+
+#write button {
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#write p {
+  margin-top: 2rem;
+  font-size: 1.4em;
+}
+
+#timer {
+  font-size: 2em;
+  margin-bottom: 1.5rem;
 }
